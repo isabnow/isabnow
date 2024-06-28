@@ -2,7 +2,7 @@
 <br>
 <br>
 
-- 🔭 Atualmente trabalhando como desenvolvedora fullstack (desktop e mobile)
+- 🔭 Atualmente trabalhando como desenvolvedora fullstack (web e mobile)
 - 🌱 Aprendendo desenvolvimento mobile com React Native
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas - IFS
 - 🎓 Técnica de Informática - Desenvolvimento de sistemas 
