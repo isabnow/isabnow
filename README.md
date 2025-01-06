@@ -2,11 +2,10 @@
 <br>
 <br>
 
-- 🔭 Atualmente trabalhando como desenvolvedora fullstack, com maior especialidade em frontend
-- 🌱 Aprendendo desenvolvimento mobile com React Native
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas - IFS
-- 🎓 Técnica de Informática - Desenvolvimento de sistemas - IFS
-- 📍 Aracaju - SE
+- 🔭 Desenvolvedora fullstack com foco em frontend  
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas - UNINTER  
+- 🎓 Técnica em Informática com ênfase em Desenvolvimento de Sistemas - IFS  
+- 📍 Aracaju/SE 
 
 <br>
 <br>
