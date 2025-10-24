@@ -2,8 +2,8 @@
 <br>
 <br>
 
-- 🔭 Desenvolvedora fullstack com foco em frontend  
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas - UNINTER  
+- 🔭 Desenvolvedora a mais de 4 anos 
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas - IFS  
 - 🎓 Técnica em Informática com ênfase em Desenvolvimento de Sistemas - IFS  
 - 📍 Aracaju/SE 
 
