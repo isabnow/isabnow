@@ -1,36 +1,102 @@
-## Olá! 👋
+# Olá! Eu sou a Isabela Cristina 👋
 
-- 🔭 Desenvolvedora há mais de 4 anos  
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas - IFS  
-- 🎓 Técnica em Informática com ênfase em Desenvolvimento de Sistemas - IFS  
-- 📍 Aracaju/SE  
+## Engenheira de Software
 
-<br>
+Construo soluções que **eliminam trabalho manual** e **reduzem custos operacionais** através de automação estratégica e inteligência artificial.
 
-<p align="center">
-  <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="Tailwind" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-  <img alt="React Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg"/>
-  <img alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-  <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-  <img alt="AdonisJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg"/>
-  <img alt="FileZilla" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg"/>
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="KnexJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg"/>
-  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-  <img alt="Vue.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>
-</p>
+🚀 **4+ anos** desenvolvendo plataformas do zero, otimizando sistemas em produção e integrando tecnologias emergentes.
 
-<br>
+---
+
+### 🔧 Stack Técnica
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+**Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**IA & ML**  
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**Cloud & DevOps**  
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Dados & Mensageria**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+---
+
+### 💼 Experiência Atual
+
+**Engenheira de Software @ Monteiro Nascimento Advogados**  
+Desenvolvendo a plataforma **Dunum** — sistema de automações jurídicas que eliminou a necessidade de 2-3 contratações, gerando economia mensal de R$ 15-20k.
+
+**Principais tecnologias:**
+- Arquitetura Hexagonal com Python + FastAPI
+- Frontend em React + TypeScript
+- Mensageria assíncrona com RabbitMQ
+- Automação com Playwright
+- Infraestrutura multi-cloud (GCP, AWS, Azure)
+
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://linkedin.com/isabelanow" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabnow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabnow&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabelanow)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabela.ststi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabnow)
+
+---
+
+
+### 💡 Sobre mim
+
+```python
+class IsabelaCristina:
+    def __init__(self):
+        self.role = "Engenheira de Software Full Stack"
+        self.location = "Aracaju, SE, Brasil"
+        self.experience_years = 5
+        self.languages = ["Portuguese", "English"]
+        
+    def current_focus(self):
+        return [
+            "Construindo plataforma de automações jurídicas",
+            "Explorando IA generativa e LLMs",
+            "Aprofundando em Google Cloud e Vertex AI",
+            "Sempre buscando impacto mensurável"
+        ]
+    
+    def values(self):
+        return [
+            "Código limpo e manutenível",
+            "Impacto no negócio > tecnologia pela tecnologia",
+            "Comunicação clara entre técnico e não-técnico",
+            "Aprendizado contínuo"
+        ]
+```
+
+---
+
+<div align="center">
+  <i>💬 "Tecnologia que não resolve problema real é apenas exercício de ego"</i>
 </div>
