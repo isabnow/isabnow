@@ -4,8 +4,9 @@
 
 Construo soluções que **eliminam trabalho manual** e **reduzem custos operacionais** através de automação estratégica e inteligência artificial.
 
-🚀 **4+ anos** desenvolvendo plataformas do zero, otimizando sistemas em produção e integrando tecnologias emergentes.
+🚀 **5+ anos** desenvolvendo plataformas do zero, otimizando sistemas em produção e integrando tecnologias emergentes.
 
+🌐 **[Veja meu portfólio completo →](https://isabcode.vercel.app/)**
 ---
 
 ### 🔧 Stack Técnica
@@ -40,7 +41,7 @@ Construo soluções que **eliminam trabalho manual** e **reduzem custos operacio
 ### 💼 Experiência Atual
 
 **Engenheira de Software @ Monteiro Nascimento Advogados**  
-Desenvolvendo a plataforma **Dunum** — sistema de automações jurídicas que eliminou a necessidade de 2-3 contratações, gerando economia mensal de R$ 15-20k.
+Desenvolvendo a plataforma **Dunum** — sistema de automações jurídicas que eliminou a necessidade de 2-3 contratações.
 
 **Principais tecnologias:**
 - Arquitetura Hexagonal com Python + FastAPI
@@ -48,14 +49,6 @@ Desenvolvendo a plataforma **Dunum** — sistema de automações jurídicas que 
 - Mensageria assíncrona com RabbitMQ
 - Automação com Playwright
 - Infraestrutura multi-cloud (GCP, AWS, Azure)
-
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabnow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabnow&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 ---
 
@@ -98,5 +91,5 @@ class IsabelaCristina:
 ---
 
 <div align="center">
-  <i>💬 "Tecnologia que não resolve problema real é apenas exercício de ego"</i>
+  <i>💬 "Tecnologia é meio."</i>
 </div>
