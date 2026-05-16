@@ -6,7 +6,7 @@ Construo soluções que **eliminam trabalho manual** e **reduzem custos operacio
 
 🚀 **5+ anos** desenvolvendo plataformas do zero, otimizando sistemas em produção e integrando tecnologias emergentes.
 
-🌐 **[Veja meu portfólio completo →](https://isabcode.vercel.app/)**
+🌐 **[Veja meu portfólio completo](https://isabcode.vercel.app/)**
 ---
 
 ### 🔧 Stack Técnica
