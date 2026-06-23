@@ -40,7 +40,7 @@ Construo soluções que **eliminam trabalho manual** e **reduzem custos operacio
 
 ### 💼 Experiência Atual
 
-**Engenheira de Software @ Monteiro Nascimento Advogados**  
+**Desenvolvedora Full Stack @ Monteiro Nascimento Advogados**  
 Desenvolvendo a plataforma **Dunum** — sistema de automações jurídicas que eliminou a necessidade de 2-3 contratações.
 
 **Principais tecnologias:**
@@ -66,7 +66,7 @@ Desenvolvendo a plataforma **Dunum** — sistema de automações jurídicas que 
 ```python
 class IsabelaCristina:
     def __init__(self):
-        self.role = "Engenheira de Software Full Stack"
+        self.role = "Desenvolvedora Full Stack"
         self.location = "Aracaju, SE, Brasil"
         self.experience_years = 5
         self.languages = ["Portuguese", "English"]
