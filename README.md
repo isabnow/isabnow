@@ -1,6 +1,6 @@
 # Olá! Eu sou a Isabela Cristina 👋
 
-## Engenheira de Software
+## Desenvolvedora Full Stack
 
 Construo soluções que **eliminam trabalho manual** e **reduzem custos operacionais** através de automação estratégica e inteligência artificial.
 
